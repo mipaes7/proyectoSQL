@@ -1,0 +1,260 @@
+1,1,Apto,1
+1,4,Apto,2
+1,3,Apto,3
+1,5,Apto,4
+1,2,No Apto,5
+2,3,Apto,6
+2,1,Apto,7
+2,4,Apto,8
+2,2,No Apto,9
+2,5,Apto,10
+3,3,Apto,11
+3,4,No Apto,12
+3,2,Apto,13
+3,1,Apto,14
+3,5,Apto,15
+4,3,No Apto,16
+4,4,Apto,17
+4,1,Apto,18
+4,2,No Apto,19
+4,5,No Apto,20
+5,5,Apto,21
+5,3,Apto,22
+5,4,Apto,23
+5,2,No Apto,24
+5,1,Apto,25
+6,3,Apto,26
+6,4,Apto,27
+6,2,Apto,28
+6,1,Apto,29
+6,5,Apto,30
+7,4,Apto,31
+7,5,Apto,32
+7,2,Apto,33
+7,1,No Apto,34
+7,3,Apto,35
+8,1,No Apto,36
+8,3,Apto,37
+8,5,Apto,38
+8,4,Apto,39
+8,2,Apto,40
+9,5,Apto,41
+9,1,Apto,42
+9,3,Apto,43
+9,4,No Apto,44
+9,2,Apto,45
+10,5,Apto,46
+10,3,Apto,47
+10,2,No Apto,48
+10,4,Apto,49
+10,1,Apto,50
+11,5,Apto,51
+11,4,Apto,52
+11,3,Apto,53
+11,2,Apto,54
+11,1,Apto,55
+12,4,Apto,56
+12,1,Apto,57
+12,2,No Apto,58
+12,3,No Apto,59
+12,5,Apto,60
+13,3,Apto,61
+13,1,Apto,62
+13,5,Apto,63
+13,4,Apto,64
+13,2,No Apto,65
+14,1,Apto,66
+14,4,Apto,67
+14,3,Apto,68
+14,2,Apto,69
+14,5,Apto,70
+15,5,Apto,71
+15,3,Apto,72
+15,4,Apto,73
+15,1,Apto,74
+15,2,Apto,75
+16,4,Apto,76
+16,1,Apto,77
+16,2,No Apto,78
+16,5,No Apto,79
+16,3,No Apto,80
+17,2,No Apto,81
+17,4,Apto,82
+17,3,Apto,83
+17,1,Apto,84
+17,5,No Apto,85
+18,4,Apto,86
+18,5,Apto,87
+18,2,No Apto,88
+18,3,Apto,89
+18,1,Apto,90
+19,1,Apto,91
+19,4,Apto,92
+19,3,Apto,93
+19,2,Apto,94
+19,5,Apto,95
+20,2,Apto,96
+20,5,Apto,97
+20,3,No Apto,98
+20,4,Apto,99
+20,1,No Apto,100
+21,5,Apto,101
+21,4,Apto,102
+21,2,No Apto,103
+21,1,No Apto,104
+21,3,Apto,105
+22,5,Apto,106
+22,4,Apto,107
+22,2,Apto,108
+22,1,Apto,109
+22,3,No Apto,110
+23,2,Apto,111
+23,4,Apto,112
+23,1,No Apto,113
+23,5,Apto,114
+23,3,No Apto,115
+24,2,Apto,116
+24,1,No Apto,117
+24,5,Apto,118
+24,4,No Apto,119
+24,3,No Apto,120
+25,5,Apto,121
+25,3,Apto,122
+25,2,Apto,123
+25,1,Apto,124
+25,4,Apto,125
+26,7,Apto,126
+26,6,Apto,127
+26,8,Apto,128
+26,9,Apto,129
+26,10,No Apto,130
+27,8,Apto,131
+27,9,No Apto,132
+27,7,No Apto,133
+27,6,No Apto,134
+27,10,Apto,135
+28,10,Apto,136
+28,9,No Apto,137
+28,8,Apto,138
+28,6,Apto,139
+28,7,No Apto,140
+29,10,Apto,141
+29,6,Apto,142
+29,8,Apto,143
+29,7,No Apto,144
+29,9,No Apto,145
+30,9,Apto,146
+30,10,No Apto,147
+30,8,Apto,148
+30,7,Apto,149
+30,6,Apto,150
+31,6,No Apto,151
+31,9,Apto,152
+31,10,No Apto,153
+31,7,No Apto,154
+31,8,No Apto,155
+32,6,No Apto,156
+32,7,Apto,157
+32,10,Apto,158
+32,9,Apto,159
+32,8,Apto,160
+33,9,Apto,161
+33,6,Apto,162
+33,10,Apto,163
+33,7,Apto,164
+33,8,No Apto,165
+34,8,Apto,166
+34,10,Apto,167
+34,9,Apto,168
+34,7,Apto,169
+34,6,No Apto,170
+35,8,Apto,171
+35,9,No Apto,172
+35,10,Apto,173
+35,7,Apto,174
+35,6,No Apto,175
+36,6,No Apto,176
+36,9,Apto,177
+36,8,Apto,178
+36,7,Apto,179
+36,10,Apto,180
+37,10,Apto,181
+37,6,Apto,182
+37,7,Apto,183
+37,8,Apto,184
+37,9,Apto,185
+38,7,Apto,186
+38,9,No Apto,187
+38,6,Apto,188
+38,8,No Apto,189
+38,10,No Apto,190
+39,6,Apto,191
+39,8,Apto,192
+39,7,Apto,193
+39,10,Apto,194
+39,9,Apto,195
+40,7,Apto,196
+40,6,Apto,197
+40,8,Apto,198
+40,10,Apto,199
+40,9,Apto,200
+41,10,Apto,201
+41,9,Apto,202
+41,6,Apto,203
+41,7,Apto,204
+41,8,No Apto,205
+42,10,Apto,206
+42,6,Apto,207
+42,8,Apto,208
+42,7,Apto,209
+42,9,Apto,210
+43,9,Apto,211
+43,10,Apto,212
+43,8,No Apto,213
+43,6,Apto,214
+43,7,No Apto,215
+44,8,Apto,216
+44,6,No Apto,217
+44,10,No Apto,218
+44,7,Apto,219
+44,9,Apto,220
+45,7,Apto,221
+45,8,Apto,222
+45,10,Apto,223
+45,6,Apto,224
+45,9,Apto,225
+46,6,No Apto,226
+46,8,No Apto,227
+46,7,No Apto,228
+46,9,Apto,229
+46,10,Apto,230
+47,8,Apto,231
+47,9,No Apto,232
+47,10,No Apto,233
+47,6,No Apto,234
+47,7,No Apto,235
+48,9,Apto,236
+48,6,No Apto,237
+48,8,No Apto,238
+48,10,Apto,239
+48,7,No Apto,240
+49,9,Apto,241
+49,6,Apto,242
+49,10,Apto,243
+49,8,No Apto,244
+49,7,Apto,245
+50,7,No Apto,246
+50,9,No Apto,247
+50,8,Apto,248
+50,6,No Apto,249
+50,10,No Apto,250
+51,6,Apto,251
+51,8,No Apto,252
+51,9,No Apto,253
+51,7,Apto,254
+51,10,Apto,255
+52,9,Apto,256
+52,8,No Apto,257
+52,7,No Apto,258
+52,6,Apto,259
+52,10,Apto,260
