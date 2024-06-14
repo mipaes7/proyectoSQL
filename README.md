@@ -16,10 +16,11 @@ El proyecto se enfoca en crear una base de datos relacional que permita:
 Este repositorio incluye las siguientes imágenes para ilustrar el diseño de la base de datos:
 
 1. **Diagrama Entidad-Relación (ERD)**:
+   [Alt text](C:\Users\sebas\Downloads\ModeloEntidadRelacion.png).
   
-2. **Diagrama Lógico**:
+3. **Diagrama Lógico**:
 
-3. **Codigo SQL**
+4. **Codigo SQL**
 
 ## Descripción de las Tablas
 
