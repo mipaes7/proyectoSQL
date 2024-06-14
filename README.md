@@ -155,6 +155,6 @@ VALUES ('Guillermo', 'Presencial', 12, 1)
 
 ## Despliegue de la BBDD en Render
 
-![Captura](/assets/Captura.png)
-![Captura](/assets/Captura1.png)
-![Captura](/assets/Captura2.png)
+![Captura](/assets/Captura.PNG)
+![Captura](/assets/Captura1.PNG)
+![Captura](/assets/Captura2.PNG)
