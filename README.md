@@ -17,7 +17,7 @@ Este repositorio incluye las siguientes imágenes para ilustrar el diseño de la
 
 ### Diagrama Entidad-Relación (ERD)
 
-![Diagrama Entidad-Relación](/assets/ModeloEntidadRelacion.png)
+![Diagrama Entidad-Relación](/assets/ModeloEntidadRelacion_white_bg.png)
 
 ### Diagrama Lógico
 
