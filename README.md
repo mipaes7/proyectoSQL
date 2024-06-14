@@ -135,3 +135,20 @@ ALTER TABLE "Instructores" ADD FOREIGN KEY ("Campus_id") REFERENCES "Campus" ("C
 - `nombre_rol`: Nombre del rol.
 - `instructor_id`: Identificador del instructor asociado al rol.
 - `promocion_id`: Identificador de la promoción asociada al rol.
+
+## Queries de Pruebas
+
+SELECT 
+	i."Nombre",
+	r."Rol",
+	c.nombre_curso
+FROM "Instructores" i
+INNER JOIN "Roles" r ON r."Instructor_id" = i."Instructor_id"
+INNER JOIN "Promociones" p ON p."Promocion_id" = r."Promocion_id"
+INNER JOIN "Cursos" c ON c.id_curso = p."Curso_id"
+
+SELECT *
+FROM "Instructores"
+
+INSERT INTO "Instructores" ("Nombre", "Modalidad", "Instructor_id", "Campus_id")
+VALUES ('Guillermo', 'Presencial', 12, 1)
