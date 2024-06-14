@@ -152,3 +152,9 @@ FROM "Instructores"
 
 INSERT INTO "Instructores" ("Nombre", "Modalidad", "Instructor_id", "Campus_id")
 VALUES ('Guillermo', 'Presencial', 12, 1)
+
+## Despliegue de la BBDD en Render
+
+![Captura](/assets/Captura.png)
+![Captura](/assets/Captura1.png)
+![Captura](/assets/Captura2.png)
